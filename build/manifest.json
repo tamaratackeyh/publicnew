@@ -1,0 +1,19 @@
+{
+  "build/main.css": "/build/main.css",
+  "build/main.js": "/build/main.js",
+  "build/images/song.mp3": "/build/images/song.mp3",
+  "build/images/twitter.png": "/build/images/twitter.png",
+  "build/images/bg.png": "/build/images/bg.png",
+  "build/images/bg2.png": "/build/images/bg2.png",
+  "build/images/opensea.png": "/build/images/opensea.png",
+  "build/images/gif.webp": "/build/images/gif.webp",
+  "build/images/play.png": "/build/images/play.png",
+  "build/images/pause.png": "/build/images/pause.png",
+  "build/images/logo.png": "/build/images/logo.png",
+  "build/images/sprite.png": "/build/images/sprite.png",
+  "build/images/SquidGame.png": "/build/images/SquidGame.png",
+  "build/images/robot.png": "/build/images/robot.png",
+  "build/images/Alien.png": "/build/images/Alien.png",
+  "build/images/Zombie.png": "/build/images/Zombie.png",
+  "build/images/spritic.png": "/build/images/spritic.png"
+}
